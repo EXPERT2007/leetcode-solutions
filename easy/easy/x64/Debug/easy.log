@@ -1,0 +1,3 @@
+﻿  S_605.cpp
+C:\Users\halil\Desktop\Desktop\Projects\leetcode-solutions\easy\easy\S_605.cpp(5,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  easy.vcxproj -> C:\Users\halil\Desktop\Desktop\Projects\leetcode-solutions\easy\x64\Debug\easy.exe
