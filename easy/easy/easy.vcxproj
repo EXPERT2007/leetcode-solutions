@@ -127,9 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="S_1672.h" />
     <ClInclude Include="S_605.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="S_1672.cpp" />
     <ClCompile Include="S_605.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -1,3 +1,2 @@
-﻿  S_605.cpp
-C:\Users\halil\Desktop\Desktop\Projects\leetcode-solutions\easy\easy\S_605.cpp(5,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  easy.vcxproj -> C:\Users\halil\Desktop\Desktop\Projects\leetcode-solutions\easy\x64\Debug\easy.exe
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\halil\Desktop\Desktop\Projects\leetcode-solutions\easy\x64\Debug\easy.exe : fatal error LNK1120: 1 unresolved externals
