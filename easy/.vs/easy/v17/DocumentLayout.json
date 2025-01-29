@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\halil\\Desktop\\Desktop\\Projects\\leetcode-solutions\\easy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D8F2113-B6D3-438C-AB6E-2A83B3657B3C}|easy\\easy.vcxproj|C:\\Users\\halil\\Desktop\\Desktop\\Projects\\leetcode-solutions\\easy\\easy\\S_1672.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5D8F2113-B6D3-438C-AB6E-2A83B3657B3C}|easy\\easy.vcxproj|solutionrelative:easy\\S_1672.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\halil\\Desktop\\Desktop\\Projects\\leetcode-solutions\\easy\\easy\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:easy\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -18,35 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 293,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "S_1672.h",
-              "DocumentMoniker": "C:\\Users\\halil\\Desktop\\Desktop\\Projects\\leetcode-solutions\\easy\\easy\\S_1672.h",
-              "RelativeDocumentMoniker": "easy\\S_1672.h",
-              "ToolTip": "C:\\Users\\halil\\Desktop\\Desktop\\Projects\\leetcode-solutions\\easy\\easy\\S_1672.h",
-              "RelativeToolTip": "easy\\S_1672.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-28T22:09:03.158Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\halil\\Desktop\\Desktop\\Projects\\leetcode-solutions\\easy\\easy\\main.cpp",
-              "RelativeDocumentMoniker": "easy\\main.cpp",
-              "ToolTip": "C:\\Users\\halil\\Desktop\\Desktop\\Projects\\leetcode-solutions\\easy\\easy\\main.cpp",
-              "RelativeToolTip": "easy\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-28T13:29:15.115Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -90,6 +59,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\halil\\Desktop\\Desktop\\Projects\\leetcode-solutions\\easy\\easy\\main.cpp",
+              "RelativeDocumentMoniker": "easy\\main.cpp",
+              "ToolTip": "C:\\Users\\halil\\Desktop\\Desktop\\Projects\\leetcode-solutions\\easy\\easy\\main.cpp",
+              "RelativeToolTip": "easy\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-28T13:29:15.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
