@@ -10,6 +10,7 @@ using namespace std;
 #include "S_1672.h"
 #include "S_412"
 #include "S_1342.h"
+#include "S_876.h"
 #pragma endregion
 
 
