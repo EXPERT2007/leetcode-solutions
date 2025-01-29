@@ -9,6 +9,7 @@ using namespace std;
 #include "S_605.h"
 #include "S_1672.h"
 #include "S_412"
+#include "S_1342.h"
 #pragma endregion
 
 
