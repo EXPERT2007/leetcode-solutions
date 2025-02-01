@@ -3,6 +3,7 @@
 #include<cmath>
 #include <string>
 #include <algorithm>
+
 using namespace std;
 #pragma region problems
 #include "S_2235.h"
@@ -16,6 +17,8 @@ using namespace std;
 #include "S_9.h"
 #include "S_14.h"
 #include "S_3151.h"
+#include "S_26.h"
+
 #pragma endregion
 
 
