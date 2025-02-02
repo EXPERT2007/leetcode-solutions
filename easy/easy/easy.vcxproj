@@ -133,6 +133,7 @@
     <ClInclude Include="S_1672.h" />
     <ClInclude Include="S_1752.h" />
     <ClInclude Include="S_26.h" />
+    <ClInclude Include="S_27.h" />
     <ClInclude Include="S_3151.h" />
     <ClInclude Include="S_383.h" />
     <ClInclude Include="S_412.h" />
@@ -148,6 +149,7 @@
     <ClCompile Include="S_1672.cpp" />
     <ClCompile Include="S_1752.cpp" />
     <ClCompile Include="S_26.cpp" />
+    <ClCompile Include="S_27.cpp" />
     <ClCompile Include="S_3151.cpp" />
     <ClCompile Include="S_383.cpp" />
     <ClCompile Include="S_412.cpp" />

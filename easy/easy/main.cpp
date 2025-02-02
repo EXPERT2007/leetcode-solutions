@@ -20,6 +20,7 @@ using namespace std;
 #include "S_26.h"
 #include "S_66.h"
 #include "S_1752.h"
+#include "S_27.h"
 
 #pragma endregion
 
