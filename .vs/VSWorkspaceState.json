@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\easy",
+    "\\easy\\easy"
   ],
+  "SelectedNode": "\\easy\\easy\\main.cpp",
   "PreviewInSolutionExplorer": false
 }

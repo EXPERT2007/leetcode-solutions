@@ -18,6 +18,7 @@ using namespace std;
 #include "S_14.h"
 #include "S_3151.h"
 #include "S_26.h"
+#include "S_66.h"
 
 #pragma endregion
 

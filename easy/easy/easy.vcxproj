@@ -136,6 +136,7 @@
     <ClInclude Include="S_383.h" />
     <ClInclude Include="S_412.h" />
     <ClInclude Include="S_605.h" />
+    <ClInclude Include="S_66.h" />
     <ClInclude Include="S_876.h" />
     <ClInclude Include="S_9.h" />
   </ItemGroup>
@@ -149,6 +150,7 @@
     <ClCompile Include="S_383.cpp" />
     <ClCompile Include="S_412.cpp" />
     <ClCompile Include="S_605.cpp" />
+    <ClCompile Include="S_66.cpp" />
     <ClCompile Include="S_876.cpp" />
     <ClCompile Include="S_9.cpp" />
   </ItemGroup>
