@@ -128,9 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="S_11.h" />
+    <ClInclude Include="S_1726.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="S_11.cpp" />
+    <ClCompile Include="S_1726.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
