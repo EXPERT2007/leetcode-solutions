@@ -33,6 +33,7 @@ using namespace std;
 #include "S_1726.h"
 #include "S_3160.h"
 #include "S_2349.h"
+#include "S_1346.h"
 
 
 #pragma endregion
