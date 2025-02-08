@@ -22,6 +22,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 | 941           | Valid Mountain Array | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_941.cpp) | C++ |
 | 977           | Squares of a Sorted Array | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_977.cpp) | C++ |
 | 1089          | Duplicate Zeros | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_1089.cpp) | C++ |
+| 1299          | Replace Elements with Greatest Element on Right Side | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_1299.cpp) | C++ |
 | 1342          | Number of Steps to Reduce a Number to Zero | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_1342.cpp) | C++ |
 | 1346          | Check if N and Its Double Exist | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_1346.cpp) | C++ |
 | 1672          | Richest Customer Wealth | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_1672.cpp) | C++ |
