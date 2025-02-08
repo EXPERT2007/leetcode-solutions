@@ -32,6 +32,7 @@ using namespace std;
 #include "S_88.h"
 #include "S_1726.h"
 #include "S_3160.h"
+#include "S_2349.h"
 
 
 #pragma endregion
