@@ -149,6 +149,7 @@
     <ClInclude Include="S_876.h" />
     <ClInclude Include="S_88.h" />
     <ClInclude Include="S_9.h" />
+    <ClInclude Include="S_941.h" />
     <ClInclude Include="S_977.h" />
   </ItemGroup>
   <ItemGroup>
@@ -174,6 +175,7 @@
     <ClCompile Include="S_876.cpp" />
     <ClCompile Include="S_88.cpp" />
     <ClCompile Include="S_9.cpp" />
+    <ClCompile Include="S_941.cpp" />
     <ClCompile Include="S_977.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
