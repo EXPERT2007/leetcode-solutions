@@ -39,6 +39,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 | 11            | Container With Most Water | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_11.cpp) | C++ |
 | 1726          | Tuple with Same Product | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_1726.cpp) | C++ |
 | 2349          | Design a Number Container System | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_2349.cpp) | C++ |
+| 2364          | Count Number of Bad Pairs | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_2364.cpp) | C++ |
 | 3160          | Find the Number of Distinct Colors Among the Balls | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_3160.cpp) | C++ |
 
 ### Adding New Problems
