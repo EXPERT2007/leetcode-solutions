@@ -20,6 +20,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 | 412           | Fizz Buzz | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_412.cpp) | C++ |
 | 605           | Can Place Flowers | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_605.cpp) | C++ |
 | 876           | Middle of the Linked List | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_876.cpp) | C++ |
+| 905           | Sort Array By Parity | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_905.cpp) | C++ |
 | 941           | Valid Mountain Array | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_941.cpp) | C++ |
 | 977           | Squares of a Sorted Array | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_977.cpp) | C++ |
 | 1089          | Duplicate Zeros | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_1089.cpp) | C++ |
