@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="S_1.h" />
+    <ClInclude Include="S_1051.h" />
     <ClInclude Include="S_1089.h" />
     <ClInclude Include="S_1299.h" />
     <ClInclude Include="S_1342.h" />
@@ -158,6 +159,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="S_1.cpp" />
+    <ClCompile Include="S_1051.cpp" />
     <ClCompile Include="S_1089.cpp" />
     <ClCompile Include="S_1299.cpp" />
     <ClCompile Include="S_1342.cpp" />

@@ -99,6 +99,9 @@
     <ClInclude Include="S_905.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="S_1051.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="S_605.cpp">
@@ -183,6 +186,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="S_905.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S_1051.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
