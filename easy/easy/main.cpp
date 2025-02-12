@@ -42,7 +42,7 @@ using namespace std;
 #include "S_905.h"
 #include "S_1051.h"
 #include "S_1910.h"
-
+#include "S_2342.h"
 
 #pragma endregion
 
