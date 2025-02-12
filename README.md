@@ -18,6 +18,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 | 283           | Move Zeroes | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_283.cpp) | C++ |
 | 383           | Ransom Note | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_383.cpp) | C++ |
 | 412           | Fizz Buzz | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_412.cpp) | C++ |
+| 414           | Third Maximum Number | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_414.cpp) | C++ |
 | 605           | Can Place Flowers | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_605.cpp) | C++ |
 | 876           | Middle of the Linked List | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_876.cpp) | C++ |
 | 905           | Sort Array By Parity | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_905.cpp) | C++ |
