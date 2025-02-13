@@ -44,6 +44,7 @@ using namespace std;
 #include "S_1910.h"
 #include "S_2342.h"
 #include "S_414.h"
+#include "S_3066.h"
 
 #pragma endregion
 

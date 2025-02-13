@@ -133,6 +133,7 @@
     <ClInclude Include="S_2342.h" />
     <ClInclude Include="S_2349.h" />
     <ClInclude Include="S_2364.h" />
+    <ClInclude Include="S_3066.h" />
     <ClInclude Include="S_3160.h" />
   </ItemGroup>
   <ItemGroup>
@@ -142,6 +143,7 @@
     <ClCompile Include="S_2342.cpp" />
     <ClCompile Include="S_2349.cpp" />
     <ClCompile Include="S_2364.cpp" />
+    <ClCompile Include="S_3066.cpp" />
     <ClCompile Include="S_3160.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
