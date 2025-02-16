@@ -44,6 +44,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 |---------------|-------------|--------------|----------|
 | 11            | Container With Most Water | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_11.cpp) | C++ |
 | 1352          | Product of the Last K Numbers | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_1352.cpp) | C++ |
+| 1718          | Construct the Lexicographically Largest Valid Sequence | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_1718.cpp) | C++ |
 | 1726          | Tuple with Same Product | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_1726.cpp) | C++ |
 | 1910          | Remove All Occurrences of a Substring | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_1910.cpp) | C++ |
 | 2342          | Max Sum of a Pair With Equal Sum of Digits | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_2342.cpp) | C++ |
