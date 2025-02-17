@@ -12,6 +12,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 | 26            | Remove Duplicates from Sorted Array | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_26.cpp) | C++ |
 | 27            | Remove Element | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_27.cpp) | C++ |
 | 28            | Find the Index of the First Occurrence in a String | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_28.cpp) | C++ |
+| 58            | Length of Last Word | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_58.cpp) | C++ |
 | 66            | Plus One | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_66.cpp) | C++ |
 | 69            | Sqrt(x) | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_69.cpp) | C++ |
 | 88            | Merge Sorted Array | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_88.cpp) | C++ |
