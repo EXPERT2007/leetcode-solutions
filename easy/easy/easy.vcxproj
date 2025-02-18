@@ -145,6 +145,7 @@
     <ClInclude Include="S_3105.h" />
     <ClInclude Include="S_3151.h" />
     <ClInclude Include="S_3174.h" />
+    <ClInclude Include="S_35.h" />
     <ClInclude Include="S_383.h" />
     <ClInclude Include="S_412.h" />
     <ClInclude Include="S_414.h" />
@@ -179,6 +180,7 @@
     <ClCompile Include="S_3105.cpp" />
     <ClCompile Include="S_3151.cpp" />
     <ClCompile Include="S_3174.cpp" />
+    <ClCompile Include="S_35.cpp" />
     <ClCompile Include="S_383.cpp" />
     <ClCompile Include="S_412.cpp" />
     <ClCompile Include="S_414.cpp" />
