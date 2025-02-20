@@ -18,6 +18,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 | 69            | Sqrt(x) | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_69.cpp) | C++ |
 | 88            | Merge Sorted Array | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_88.cpp) | C++ |
 | 136           | Single Number | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_136.cpp) | C++ |
+| 169           | Majority Element | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_169.cpp) | C++ |
 | 283           | Move Zeroes | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_283.cpp) | C++ |
 | 383           | Ransom Note | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_383.cpp) | C++ |
 | 412           | Fizz Buzz | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_412.cpp) | C++ |
