@@ -35,6 +35,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 | 1299          | Replace Elements with Greatest Element on Right Side | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_1299.cpp) | C++ |
 | 1342          | Number of Steps to Reduce a Number to Zero | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_1342.cpp) | C++ |
 | 1346          | Check if N and Its Double Exist | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_1346.cpp) | C++ |
+| 1512          | Number of Good Pairs | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_1512.cpp) | C++ |
 | 1672          | Richest Customer Wealth | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_1672.cpp) | C++ |
 | 1752          | Check if Array Is Sorted and Rotated | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_1752.cpp) | C++ |
 | 1790          | Check if One String Swap Can Make Strings Equal | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_1790.cpp) | C++ |

@@ -8,4 +8,4 @@ public:
     int majorityElement(std::vector<int>& nums);
 };
 
-#endif // S_169_H
+#endif // S_169_H   
