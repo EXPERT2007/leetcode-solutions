@@ -40,6 +40,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 | 1752          | Check if Array Is Sorted and Rotated | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_1752.cpp) | C++ |
 | 1790          | Check if One String Swap Can Make Strings Equal | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_1790.cpp) | C++ |
 | 1800          | Maximum Ascending Subarray Sum | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_1800.cpp) | C++ |
+| 1929          | Concatenation of Array | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_1929.cpp) | C++ |  
 | 3105          | Longest Strictly Increasing or Strictly Decreasing Subarray | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3105.cpp) | C++ |
 | 3151          | Special Array I | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3151.cpp) | C++ |
 | 3174          | Clear Digits | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3174.cpp) | C++ |

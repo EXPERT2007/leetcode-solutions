@@ -9,7 +9,7 @@ using namespace std;
 #include "S_2235.h"
 #include "S_605.h"
 #include "S_1672.h"
-#include "S_412"
+#include "S_412.h"
 #include "S_1342.h"
 #include "S_876.h"
 #include "S_383.h"
@@ -55,6 +55,7 @@ using namespace std;
 #include "S_169.h"
 #include "S_118.h"
 #include "S_1512.h"
+#include "S_1929.h"
 
 #pragma endregion
 
