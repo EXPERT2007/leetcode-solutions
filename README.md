@@ -47,8 +47,8 @@ This repository contains a list of LeetCode problems I have solved along with th
 
 ## Medium Problems
 
-| Problem Number | Problem Name | Solution Link | Language |
-|---------------|-------------|--------------|----------|
+| Problem Number | Problem Name | Solution Link | LeetCode Link | Language |
+|---------------|-------------|--------------|--------------|----------|
 | 11            | Container With Most Water | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_11.cpp) | [LeetCode](https://leetcode.com/problems/container-with-most-water/solutions/6376157/maximum-water-container-two-pointer-o-n-time-complexity/) | C++ |
 | 1352          | Product of the Last K Numbers | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_1352.cpp) | [LeetCode](https://leetcode.com/problems/product-of-the-last-k-numbers/solutions/6421915/product-of-the-last-k-numbers/) | C++ |
 | 1718          | Construct the Lexicographically Largest Valid Sequence | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_1718.cpp) | [LeetCode](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/solutions/6460636/construct-the-lexicographically-largest-y8zwg/) | C++ |
