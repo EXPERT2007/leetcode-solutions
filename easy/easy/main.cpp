@@ -60,6 +60,7 @@ using namespace std;
 #include "S_2011.h"
 #include "S_3289.h"
 #include "S_3190.h"
+#include "S_1470.h"
 
 #pragma endregion
 
