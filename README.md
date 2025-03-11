@@ -57,6 +57,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 | 3174          | Clear Digits | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3174.cpp)  | [LeetCode](https://leetcode.com/problems/clear-digits/solutions/6402117/digit-eraser-removing-digits-their-closest-left-letter/) | C++ |
 | 3190          | Find Minimum Operations to Make All Elements Divisible by Three | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3190.cpp)  | [LeetCode](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/solutions/6477480/minimum-operations-to-make-all-elements-gtx5i/) | C++ |
 | 3289          | The Two Sneaky Numbers of Digitville | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3289.cpp)  | [LeetCode](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/solutions/6475472/find-duplicate-elements-in-sorted-array-aqssg/) | C++ |
+| 3467          | Transform Array by Parity | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3467.cpp)  | [LeetCode](https://leetcode.com/problems/transform-array-by-parity/solutions/6525242/binary-array-after-parity-transformation-lgyb/) | C++ |
 
 ## Medium Problems
 
