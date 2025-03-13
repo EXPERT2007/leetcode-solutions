@@ -73,6 +73,7 @@ using namespace std;
 #include "S_2798.h"
 #include "S_3467.h"
 #include "S_121.h"
+#include "S_674.h"
 
 #pragma endregion
 
