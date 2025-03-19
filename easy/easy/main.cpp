@@ -79,6 +79,7 @@ using namespace std;
 #include "S_496.h"
 #include "S_2206.h"
 #include "S_70.h"
+#include "S_812.h"
 
 #pragma endregion
 
