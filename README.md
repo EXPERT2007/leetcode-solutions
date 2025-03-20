@@ -85,6 +85,12 @@ This repository contains a list of LeetCode problems I have solved along with th
 | 3066          | Minimum Operations to Exceed Threshold Value II | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_3066.cpp) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/solutions/6417347/threshold-merger/) | C++ |
 | 3160          | Find the Number of Distinct Colors Among the Balls | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_3160.cpp) | [LeetCode](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/solutions/6390954/efficient-tracking-of-unique-colors-in-a-dynamic-ball-allocation-system/) | C++ |
 
+## Hard Problems
+
+| Problem Number | Problem Name | Solution Link | LeetCode Link | Language |
+|---------------|-------------|--------------|--------------|----------|
+| 11            | N-Queens II | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/hard/hard/S_52.cpp) | [LeetCode](https://leetcode.com/problems/n-queens-ii/solutions/6558778/efficient-n-queens-ii-solution-using-bit-cynf/) | C++ |
+
 ### Adding New Problems
 
 When new problems are solved, update the tables above to keep the README file up to date.
