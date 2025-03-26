@@ -86,6 +86,7 @@ using namespace std;
 #include "S_3285.h"
 #include "S_1389.h"
 #include "S_561.h"
+#include "S_3232.h"
 
 #pragma endregion
 
