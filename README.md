@@ -95,6 +95,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 | 3375          | Minimum Operations to Make Array Values Equal to K | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3375.cpp)  | [LeetCode](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/solutions/6634528/minimize-distinct-reductions-to-reach-ta-zbb8/) | C++ |
 | 3396          | Minimum Number of Operations to Make Elements in Array Distinct | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3396.cpp)  | [LeetCode](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/solutions/6628817/remove-duplicates-in-batches-of-three-by-fgnl/) | C++ |
 | 3467          | Transform Array by Parity | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3467.cpp)  | [LeetCode](https://leetcode.com/problems/transform-array-by-parity/solutions/6525242/binary-array-after-parity-transformation-lgyb/) | C++ |
+| 3512          | Minimum Operations to Make Array Sum Divisible by K | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3512.cpp)  | [LeetCode](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/solutions/6662242/minimum-unit-decrements-to-make-array-su-a4pj/) | C++ |
 
 ## Medium Problems
 
