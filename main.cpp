@@ -113,6 +113,8 @@ using namespace std;
 #include "S_1748.h"
 #include "S_3512.h"
 #include "S_1464.h"
+#include "S_509.h"
+#include "S_1757.sql"
 
 #pragma endregion
 
