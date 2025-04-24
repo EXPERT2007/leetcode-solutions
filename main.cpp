@@ -119,5 +119,6 @@ using namespace std;
 #include "S_595.sql"
 #include "S_1952.h"
 #include "S_1399.h"
+#include "S_258.h"
 
 #pragma endregion
