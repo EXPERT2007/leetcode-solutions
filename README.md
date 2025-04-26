@@ -104,6 +104,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 | 3396          | Minimum Number of Operations to Make Elements in Array Distinct | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3396.cpp)  | [LeetCode](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/solutions/6628817/remove-duplicates-in-batches-of-three-by-fgnl/) | C++ |
 | 3467          | Transform Array by Parity | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3467.cpp)  | [LeetCode](https://leetcode.com/problems/transform-array-by-parity/solutions/6525242/binary-array-after-parity-transformation-lgyb/) | C++ |
 | 3512          | Minimum Operations to Make Array Sum Divisible by K | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3512.cpp)  | [LeetCode](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/solutions/6662242/minimum-unit-decrements-to-make-array-su-a4pj/) | C++ |
+| 3516          | Find Closest Person | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3516.cpp)  | [LeetCode](https://leetcode.com/problems/find-closest-person/solutions/6688034/proximity-comparator-by-expert07-khr3/) | C++ |
 
 ## Medium Problems
 
