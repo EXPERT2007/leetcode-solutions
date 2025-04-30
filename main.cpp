@@ -126,5 +126,6 @@ using namespace std;
 #include "S_1979.h"
 #include "S_2169.h"
 #include "S_263.h"
+#include "S_292.h"
 
 #pragma endregion
