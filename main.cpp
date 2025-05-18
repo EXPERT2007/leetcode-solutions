@@ -146,5 +146,6 @@ using namespace std;
 #include "S_2520.h"
 #include "S_1217.h"
 #include "S_349.h"
+#include "S_350.h"
 
 #pragma endregion
