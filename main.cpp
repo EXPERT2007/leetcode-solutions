@@ -157,5 +157,6 @@ using namespace std;
 #include "S_2161.h"
 #include "S_566.h"
 #include "S_1921.h"
+#include "S_2396.h"
 
 #pragma endregion
