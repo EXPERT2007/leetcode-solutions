@@ -160,5 +160,6 @@ using namespace std;
 #include "S_2396.h"
 #include "S_48.h"
 #include "S_575.h"
+#include "S_1828.h"
 
 #pragma endregion
