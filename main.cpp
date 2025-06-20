@@ -181,5 +181,6 @@ using namespace std;
 #include "S_387.h"
 #include "S_1812.h"
 #include "S_49.h"
+#include "S_347.h"
 
 #pragma endregion
