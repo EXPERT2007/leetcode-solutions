@@ -162,6 +162,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 | Problem Number | Problem Name | Solution Link | LeetCode Link | Language |
 |---------------|-------------|--------------|--------------|----------|
 | 11            | Container With Most Water | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_11.cpp) | [LeetCode](https://leetcode.com/problems/container-with-most-water/solutions/6376157/maximum-water-container-two-pointer-o-n-time-complexity/) | C++ |
+| 36            | Valid Sudoku | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_36.cpp) | [LeetCode](https://leetcode.com/problems/valid-sudoku/solutions/6871305/sudoku-validator-by-expert07-pwg5/) | C++ |
 | 48            | Rotate Image | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_48.cpp) | [LeetCode](https://leetcode.com/problems/rotate-image/solutions/6791628/rotate-image-by-expert07-nb0j/) | C++ |
 | 49            | Group Anagrams | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_49.cpp) | [LeetCode](https://leetcode.com/problems/group-anagrams/solutions/6860408/the-signature-of-anagrams-grouping-strin-ff1k/) | C++ |
 | 172            | Factorial Trailing Zeroes | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_172.cpp) | [LeetCode](https://leetcode.com/problems/factorial-trailing-zeroes/solutions/6780087/efficient-counting-of-trailing-zeroes-in-pvdh/) | C++ |
