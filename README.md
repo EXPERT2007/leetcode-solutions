@@ -196,6 +196,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 | Problem Number | Problem Name | Solution Link | LeetCode Link | Language |
 |---------------|-------------|--------------|--------------|----------|
 | 11            | N-Queens II | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/hard/hard/S_52.cpp) | [LeetCode](https://leetcode.com/problems/n-queens-ii/solutions/6558778/efficient-n-queens-ii-solution-using-bit-cynf/) | C++ |
+| 42            | Trapping Rain Water | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/hard/hard/S_42.cpp) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/solutions/6890791/trapping-rain-water-a-pre-computation-ap-rv3t/) | C++ |
 
 ### Adding New Problems
 
