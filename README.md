@@ -163,6 +163,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 
 | Problem Number | Problem Name | Solution Link | LeetCode Link | Language |
 |---------------|-------------|--------------|--------------|----------|
+| 3            | Longest Substring Without Repeating Characters | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_3.cpp) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/6897814/longest-substring-without-repeating-char-ize7/) | C++ |
 | 11            | Container With Most Water | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_11.cpp) | [LeetCode](https://leetcode.com/problems/container-with-most-water/solutions/6376157/maximum-water-container-two-pointer-o-n-time-complexity/) | C++ |
 | 15            | 3Sum | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_15.cpp) | [LeetCode](https://leetcode.com/problems/3sum/solutions/6887021/efficient-triplet-finder-for-zero-sum-by-nrgj/) | C++ |
 | 36            | Valid Sudoku | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_36.cpp) | [LeetCode](https://leetcode.com/problems/valid-sudoku/solutions/6871305/sudoku-validator-by-expert07-pwg5/) | C++ |
