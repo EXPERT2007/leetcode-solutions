@@ -209,5 +209,6 @@ using namespace std;
 #include "S_135.h"
 #include "S_12.h"
 #include "S_151.h"
+#include "S_6.h"
 
 #pragma endregion
