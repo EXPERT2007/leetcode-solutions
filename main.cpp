@@ -213,5 +213,6 @@ using namespace std;
 #include "S_392.h"
 #include "S_1768.h"
 #include "S_345.h"
+#include "S_1679.h"
 
 #pragma endregion
